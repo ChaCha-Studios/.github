@@ -1,4 +1,4 @@
-## Hello Welcome To Our Github Page! 👋
+## Hello! Welcome to our Github page 👋
 
 <!--
 
